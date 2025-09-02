@@ -1,2 +1,8 @@
-# lens_gho_reward
+# lens\_gho\_reward
+
 finish the study
+
+Setup OK on 2025-09-02.
+
+
+
