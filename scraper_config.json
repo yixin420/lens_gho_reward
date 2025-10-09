@@ -1,0 +1,14 @@
+{
+  "filter_days": 90,
+  "chinese_ratio_threshold": 0.1,
+  "chinese_char_threshold": 1,
+  "headless_mode": true,
+  "use_anti_detection": true,
+  "initial_wait_time": 15,
+  "max_wait_time": 45,
+  "max_scroll_attempts": 30,
+  "verbose_logging": true,
+  "save_screenshots": true,
+  "save_page_source": true,
+  "max_retries": 2
+}
